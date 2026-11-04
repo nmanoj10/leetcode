@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nmanoj10/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/nmanoj10/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/nmanoj10/leetcode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/nmanoj10/leetcode/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -36,4 +37,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nmanoj10/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/nmanoj10/leetcode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/nmanoj10/leetcode/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/nmanoj10/leetcode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
