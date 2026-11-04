@@ -15,6 +15,6 @@ class Solution:
 
         for k in range(i+1,n):
             nums[k]=0
-            k+=1
+            
 
         return nums
