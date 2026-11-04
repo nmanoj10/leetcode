@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nmanoj10/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nmanoj10/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/nmanoj10/leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/nmanoj10/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -34,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nmanoj10/leetcode/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/nmanoj10/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
