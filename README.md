@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nmanoj10/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nmanoj10/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/nmanoj10/leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nmanoj10/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nmanoj10/leetcode/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/nmanoj10/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nmanoj10/leetcode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nmanoj10/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/nmanoj10/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nmanoj10/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nmanoj10/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/nmanoj10/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Queue
 |  |
