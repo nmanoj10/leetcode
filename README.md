@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nmanoj10/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nmanoj10/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/nmanoj10/leetcode/tree/master/0409-longest-palindrome) |
 ## Greedy
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nmanoj10/leetcode/tree/master/0011-container-with-most-water) |
+| [0268-missing-number](https://github.com/nmanoj10/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nmanoj10/leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/nmanoj10/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nmanoj10/leetcode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/nmanoj10/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Queue
 |  |
@@ -54,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nmanoj10/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nmanoj10/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nmanoj10/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nmanoj10/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
